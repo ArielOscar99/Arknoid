@@ -100,7 +100,7 @@ If no arguments are given, the game runs all levels by default.
 This project uses **`biuoop-1.4.jar`** for the graphical user interface (GUI) and input handling.  
 You need to download it and add it to your project’s classpath in order to compile and run the game.
 
-- [Download biuoop-1.4.jar](https://www.cs.biu.ac.il/~intro2cs/biuoop/biuoop-1.4.jar)  
+- Download biuoop-1.4.jar, you can find it in this repository.
 - Place it in your project folder.  
 - Update your `build.xml` (Ant) or IDE project settings to include it in the classpath.  
 
