@@ -33,7 +33,7 @@ Control the paddle, bounce the ball, and break all the blocks to win!
 
 ### Build & Run
 Clone the repository:
-git clone [https://github.com/ArielOscar99/Arkanoid.git](https://github.com/ArielOscar99/Arknoid)
+git clone [https://github.com/ArielOscar99/Arkanoid.git](https://github.com/ArielOscar99/Arkanoid)
 cd Arkanoid
 
 ### Compile and run with Ant:
